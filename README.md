@@ -1,4 +1,4 @@
-# AE : the basic, denoising and anomalies detection.
+# AE : The Basic, Denoising and Anomalies Detection.
 
 Hi, this project contains the following:
 - Building an autoencoder model for compressing input image to a latent vector and reconstructing it, which I call the basic part.
